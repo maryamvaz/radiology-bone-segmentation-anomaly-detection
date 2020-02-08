@@ -6,6 +6,7 @@ We will be developing and utilizing deep learning computer vision strategies to 
 
 ## Step (1): Data Pulling:
 [The Osteoarthritis Initiative (OAI)](https://nda.nih.gov/oai/). 
+
 Image modality: X-rays. 
 
 
