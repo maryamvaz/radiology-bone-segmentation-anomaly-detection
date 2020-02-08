@@ -12,7 +12,7 @@ Image modality: X-rays.
 
 ## Step (2): Building a fully-annotated image segmentation dataset
 <p align="justify"> 
-There is a plenty of software tool sets that are facilitating the construction of fully-annotated image segmentation dataset(s). We are focusing on the following toolset, examining their quality attributes to see which one(s) provide better functionalities with relative ease and speed: 
+There is a plenty of software tool sets that are facilitating the construction of fully-annotated image segmentation dataset(s). We are focusing on the following toolset, examining their quality attributes to see which one(s) provide better functionalities with relative ease and speed. 
      
 <strong>[1]</strong> [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool). 
 
