@@ -1,7 +1,7 @@
 # radiology-bone-segmentation-anomaly-detection
 <strong> 2020 [MU](https://www.marquette.edu/) senior design project: Bone segmentation and anomaly detection in knee plain radiographs. </strong> 
 
-We will be developing and utilizing deep learning computer vision strategies to tackle the problem. To feed the data hungry deep learning methods, we will be working on a publicly and freely knee radiographic dataset, namely [The Osteoarthritis Initiative (OAI)](https://nda.nih.gov/oai/). 
+We will be developing and utilizing deep learning computer vision strategies to tackle the problem of bone segmentation and anomaly detection in knee plain radiographs. To feed the data hungry deep learning methods, we will be working on a publicly and freely knee radiographic dataset, namely [The Osteoarthritis Initiative (OAI)](https://nda.nih.gov/oai/). 
 
 
 ## Step (1): Data Pulling
