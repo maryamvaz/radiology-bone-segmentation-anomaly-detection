@@ -1,1 +1,7 @@
 Hangouts: https://hangouts.google.com/call/yF19gUZzjNW-oGh1Zb_HAEEE
+
+Polygon to Mask:
+  Matlab: https://www.mathworks.com/help/images/ref/poly2mask.html
+  Python: https://stackoverflow.com/questions/21920712/scanline-fill-algorithm-in-python-numpy
+  R: https://rdrr.io/cran/xROI/
+     https://rdrr.io/cran/xROI/man/rasterizeROI.html
