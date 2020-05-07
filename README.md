@@ -20,3 +20,7 @@ There is a plenty of software tool sets that are facilitating the construction o
 
 <strong>[3]</strong> [scalabel](https://github.com/scalabel/scalabel).
 
+## Step (3): Implementing U-Net Model for Bone Segmentation
+
+We have completed a simple U-Net implementation on 500 radiographs and their corresponsing PNG masks. Images were annotated using CVAT, and class labels were given for femur, patella, tibia, fibula, and background. The model was able to recognize the color labels and make predictions with a validation accuracy score of 97%.
+
